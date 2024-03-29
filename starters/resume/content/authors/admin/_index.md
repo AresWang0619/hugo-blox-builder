@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王绎鸣
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Yiming
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wang
+last_name: Yiming
 
 # Status emoji
 status:
